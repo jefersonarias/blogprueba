@@ -1,0 +1,9 @@
+Registro de como evoluciona el aprendizaje de git.
+
+Se cambia el primer registro para iniciar la bitacora mas formal.
+
+Bitacora:
+
+Junio:
+05-3.22
+Se realiza la cración de de miblog, el css y se integra titulo, parrafo y fuente y color de texto.
